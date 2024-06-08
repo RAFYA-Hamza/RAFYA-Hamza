@@ -27,7 +27,7 @@
 
 <p align = "center">
  <a href="https://twitter.com/s08prashant">
-  <img align="center" alt="Prashant's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="center" height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
 </a>
 <a href="https://www.linkedin.com/in/prashant-singh-08/">
   <img align="center" alt="Prashant's's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
