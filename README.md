@@ -25,5 +25,5 @@
 
 <a target="_blank" href="https://icons8.com/icon/Rc0Xn5AtE8kX/python">Python</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 
-<img src="RAFYA-Hamza/icons/icon.svg" alt="SVG Icon" width="100" height="100" />
+<img src="https://github.com/RAFYA-Hamza/icons/blob/main/icon.svg" alt="SVG Icon" width="100" height="100" />
 
