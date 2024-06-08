@@ -10,6 +10,13 @@
 
 <h1>Languages and Tools:</h1><br><br>
 
+<div style="display: flex; justify-content: space-between; width: 220px;">
+    <img src="https://github.com/RAFYA-Hamza/icons/blob/main/icon_python.gif" width="100" height="100" />
+    <img src="https://github.com/RAFYA-Hamza/icons/blob/main/icon_javascript.gif" width="100" height="100" />
+    <img src="https://github.com/RAFYA-Hamza/icons/blob/main/icon_github.gif" width="100" height="100" />
+ 
+</div>
+
 
 
 
@@ -24,8 +31,4 @@
 </div>
 
 
-
-<div style="width: 100%; height: 0; padding-bottom: 100%; position: relative;">
-<iframe src="https://lottie.host/embed/7f8e6777-839d-4f99-af3e-f19a72782eea/u8TDGXAP6d.lottie"></iframe>
-</div>
 
