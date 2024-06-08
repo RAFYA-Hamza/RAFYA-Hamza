@@ -26,6 +26,6 @@
 
 
 <div style="width: 100%; height: 0; padding-bottom: 100%; position: relative;">
-  <iframe src="https://lottie.host/d2585d1d-6e80-476a-9bee-d315ae0add3c/I81wljqyaQ.json" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0;" frameborder="0"></iframe>
+  <iframe src="https://lottie.host/embed/d2585d1d-6e80-476a-9bee-d315ae0add3c" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0;" frameborder="0"></iframe>
 </div>
 
