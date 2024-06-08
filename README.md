@@ -5,4 +5,4 @@
   </h1>
 </div>
 
-<p>I'm currently working as an **Embedded Systems Engineer**. I really enjoy learning new languages and frameworks. I am starting a new challenge to become a developer in **React and React Native**.</p>
+<p>I'm currently working as an Embedded Systems Engineer. I really enjoy learning new languages and frameworks. I am starting a new challenge to become a developer in React and React Native.</p>
