@@ -11,7 +11,7 @@
 - 🔭 I started my challenge with Flutter Framework, developing some interactive apps with local storage and Firebase.
 - 💬 I’m currently working on building my portfolio using HTML | CSS | JavaScript.
 - ⚡ I’m currently learning the stack Node.js | ReactJS | React Native.
-- 📫 How to reach me: [Email](rafyahamza99@gmail.com).
+- 📫 How to reach me: rafyahamza99@gmail.com.
   
 <h1>Languages and Tools:</h1><br>
 
