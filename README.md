@@ -29,8 +29,8 @@
 
 <div align="start"> 
   <a href="https://www.linkedin.com/in/hamza-rafya-01a0011b8" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/ha_mza.rf" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.facebook.com/Hamza.Rafa.05" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://www.instagram.com/ha_mza.rf" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" target="_blank" alt="Instagram"></a>
+  <a href="https://www.facebook.com/Hamza.Rafa.05" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" target="_blank" alt="Facebook"></a>
 </div>
 
 
