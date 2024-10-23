@@ -9,10 +9,9 @@
  I'm currently working as an Embedded Systems Engineer and I have a strong passion for coding. I really enjoy learning new languages and frameworks. I love to learn and contribute in any and every possible way. I'm passionate about coding, To further my skills, I've recently started a new challenge to become a Front-End Developer.
 </p>
 
-
+- ⚡ I'm currently working as an Embedded Systems Engineer
 - 🔭 I started my challenge with Flutter Framework, developing some interactive apps with local storage and Firebase.
-- 💬 I’m currently working on building my portfolio using HTML | CSS | JavaScript.
-- ⚡ I’m currently learning ReactJS | React Native.
+- 💬 I’m currently learning ReactJS | React Native.
 - 📫 How to reach me: rafyahamza99@gmail.com.
   
 <h1>Languages and Tools:</h1><br>
