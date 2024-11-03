@@ -6,7 +6,8 @@
  </div>
 
 <p>
- I'm currently working as an Embedded Systems Engineer and I have a strong passion for coding. I really enjoy learning new languages and frameworks. I love to learn and contribute in any and every possible way. I'm passionate about coding, To further my skills, I've recently started a new challenge to become a Front-End Developer.
+ I'm currently working as an Embedded Systems Engineer and I have a strong passion for coding. I really enjoy learning new languages and frameworks. I love to learn and contribute in any and every possible way. 
+<!--  I'm passionate about coding, To further my skills, I've recently started a new challenge to become a Front-End Developer. -->
 </p>
 
 - ⚡ I'm currently working as an Embedded Systems Engineer
