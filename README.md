@@ -11,6 +11,9 @@
  I'm a dedicated and aspiring Full-Stack Developer (React.js & Node.js) with a passion for creating seamless user experiences and visually engaging digital products. I take pride in writing clean, efficient, and maintainable code while ensuring designs are both functional and aesthetically pleasing.
 </p>
 
+<p>Currently, I work as an Embedded Systems Engineer, where I have gained diverse experience in software and hardware development through various professional and academic projects. These experiences have honed my problem-solving skills and technical expertise.</p>
+
+
 
 
 - ⚡ I'm currently working as an Embedded Systems Engineer
