@@ -14,6 +14,8 @@
 <p>Currently, I work as an Embedded Systems Engineer, where I have gained diverse experience in software and hardware development through various professional and academic projects. These experiences have honed my problem-solving skills and technical expertise.</p>
 
 
+<p>A year ago, I embarked on a self-driven journey to transition into Full-Stack development, fueled by my enthusiasm for coding and building impactful digital solutions. Today, I am advancing my knowledge in modern web technologies like React.js, Next.js, and Tailwind CSS as I work towards crafting innovative and user-friendly web applications.</p>
+
 
 
 - ⚡ I'm currently working as an Embedded Systems Engineer
