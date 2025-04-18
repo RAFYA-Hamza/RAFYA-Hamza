@@ -19,7 +19,7 @@
 
 
 
-- ⚡ I'm currently working as an Embedded Systems Engineer
+- ⚡ I'm currently working as an Embedded Systems Engineer.
 - ⚡ I started my challenge with HTML, CSS and JavaScript, laying the foundation for my development skills.
 - ⚡ I have successfully completed my learning in React.js, expanding my expertise in modern web development.
 - 💬 I’m currently learning TypeScript & Next.js.
