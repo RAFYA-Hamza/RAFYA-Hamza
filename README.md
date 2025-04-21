@@ -9,7 +9,8 @@
 <!--  
  I'm passionate about coding, To further my skills, I've recently started a new challenge to become a Front-End Developer.
  -->
- I'm a dedicated and aspiring Full-Stack Developer (React.js & Node.js) with a passion for creating seamless user experiences and visually engaging digital products. I take pride in writing clean, efficient, and maintainable code while ensuring designs are both functional and aesthetically pleasing.
+<!--  I'm a dedicated and aspiring Full-Stack Developer (React.js & Node.js) with a passion for creating seamless user experiences and visually engaging digital products. I take pride in writing clean, efficient, and maintainable code while ensuring designs are both functional and aesthetically pleasing. 💬-->
+ I'm a Front-End Developer (React.js & Next.js) with a background in Embedded Systems Engineering, passionate about crafting fast, accessible, and visually engaging web applications. My experience spans e-commerce platforms, digital agency websites, and intuitive UI/UX—fueled by a relentless curiosity for new technologies.
 </p>
 
 <p>Currently, I work as an Embedded Systems Engineer, where I have gained diverse experience in software and hardware development through various professional and academic projects. These experiences have honed my problem-solving skills and technical expertise.</p>
@@ -21,8 +22,7 @@
 
 - ⚡ I'm currently working as an Embedded Systems Engineer.
 - ⚡ I started my challenge with HTML, CSS and JavaScript, laying the foundation for my development skills.
-- ⚡ I have successfully completed my learning in React.js, expanding my expertise in modern web development.
-- 💬 I’m currently learning TypeScript & Next.js.
+- ⚡ I have successfully completed my learning in React.js & Next.js, expanding my expertise in modern web development.
 - 📫 How to reach me: rafyahamza99@gmail.com.
   
 <h1>Languages and Tools:</h1><br>
