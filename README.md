@@ -8,6 +8,7 @@
  
 <!--  I'm currently working as an Embedded Systems Engineer and I have a strong passion for coding. I really enjoy learning new languages and frameworks. I love to learn and contribute in any and every possible way.  -->
 <!--  
+
  I'm passionate about coding, To further my skills, I've recently started a new challenge to become a Front-End Developer.
  -->
 <!--  I'm a dedicated and aspiring Full-Stack Developer (React.js & Node.js) with a passion for creating seamless user experiences and visually engaging digital products. I take pride in writing clean, efficient, and maintainable code while ensuring designs are both functional and aesthetically pleasing. 💬-->
