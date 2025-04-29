@@ -38,7 +38,6 @@
     <img src="https://github.com/RAFYA-Hamza/icons/blob/main/icon_python.gif" height="120" />
     <img src="https://github.com/RAFYA-Hamza/icons/blob/main/icon_github.gif" height="120" />
 </div>
-
 <h2><i>Connect with me:</i></h2>
 
 <div align="start"> 
