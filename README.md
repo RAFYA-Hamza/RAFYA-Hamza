@@ -19,8 +19,6 @@
 
 <p>A year ago, I embarked on a self-driven journey to transition into Full-Stack development, fueled by my enthusiasm for coding and building impactful digital solutions. Today, I am advancing my knowledge in modern web technologies like React.js, Next.js, and Tailwind CSS as I work towards crafting innovative and user-friendly web applications.</p>
 
-
-
 - ⚡ I'm currently working as an Embedded Systems Engineer.
 - ⚡ I started my challenge with HTML, CSS and JavaScript, laying the foundation for my development skills.
 - ⚡ I have successfully completed my learning in React.js & Next.js, expanding my expertise in modern web development.
