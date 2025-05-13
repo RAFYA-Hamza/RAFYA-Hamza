@@ -35,7 +35,7 @@
     <img src="https://github.com/RAFYA-Hamza/icons/blob/main/icon_python.gif" height="120" />
     <img src="https://github.com/RAFYA-Hamza/icons/blob/main/icon_github.gif" height="120" />
 </div>
-<h2><i>Connect with me:</i></h2>
+<h2><i>Connect with me: </i></h2>
 
 <div align="start"> 
   <a href="https://www.linkedin.com/in/hamza-rafya-01a0011b8" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
