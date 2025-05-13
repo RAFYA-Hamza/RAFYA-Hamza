@@ -43,5 +43,3 @@
   <a href="https://www.facebook.com/Hamza.Rafa.05" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" target="_blank" alt="Facebook"></a>
 </div>
 
-
-
