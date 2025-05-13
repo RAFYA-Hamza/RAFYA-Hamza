@@ -24,7 +24,7 @@
 - ⚡ I have successfully completed my learning in React.js & Next.js, expanding my expertise in modern web development.
 - 📫 How to reach me: rafyahamza99@gmail.com.
   
-<h1>Languages and Tools:</h1><br>
+<h1>Languages and Tools: </h1><br>
 
 <div style="display: flex; justify-content: space-between; width: 220px;">
      <img src="https://github.com/RAFYA-Hamza/icons/blob/main/icon_html.gif"height="130" />
