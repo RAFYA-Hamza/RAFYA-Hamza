@@ -22,7 +22,7 @@
 - ⚡ I'm currently working as an Embedded Systems Engineer.
 - ⚡ I started my challenge with HTML, CSS and JavaScript, laying the foundation for my development skills.
 - ⚡ I have successfully completed my learning in React.js & Next.js, expanding my expertise in modern web development.
-- 📫 How to reach me: rafyahamza99@gmail.com.
+- 📫 How to reach me: hamza.rafya.dev@gmail.com.
   
 <h1>Languages and Tools: </h1><br>
 
