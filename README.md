@@ -16,13 +16,34 @@
 
 <p>Currently, I work as an Embedded Systems Engineer, where I have gained diverse experience in software and hardware development through various professional and academic projects. These experiences have honed my problem-solving skills and technical expertise.</p>
 
-
 <p>A year ago, I embarked on a self-driven journey to transition into Full-Stack development, fueled by my enthusiasm for coding and building impactful digital solutions. Today, I am advancing my knowledge in modern web technologies like React.js, Next.js, and Tailwind CSS as I work towards crafting innovative and user-friendly web applications.</p>
 
+<p>Frontend & Product Engineer specializing in React.js, Next.js, TypeScript, and modern web architecture, with a strong foundation in Embedded Systems Engineering.</p>
+
+<p>I build fast, scalable, and user-focused web applications — from SaaS products and validation-driven landing pages to full-featured digital platforms.</p>
+
+<p>My background in embedded systems and electrical/electronic architecture gives me a systems-level approach to software development: structured problem solving, performance awareness, and engineering discipline.</p>
+
+<p>Currently working as an Embedded Systems Engineer while building modern web products and expanding toward full-stack SaaS development.</p>
+
+### Focus Areas
+
+- ⚡ React.js, Next.js, Supabase, TypeScript, Tailwind CSS
+- ⚡ SaaS product development & idea validation
+- ⚡ Scalable frontend architecture
+- ⚡ Clean, reusable, maintainable code
+- ⚡ Building products at the intersection of engineering and business
+- 📫 How to reach me: hamza.rafya.dev@gmail.com.
+
+
+### Current Direction
+
+Designing and building validation-first SaaS products, exploring real market problems, and turning ideas into production-ready digital solutions.
+
+<!-- 
 - ⚡ I'm currently working as an Embedded Systems Engineer.
 - ⚡ I started my challenge with HTML, CSS and JavaScript, laying the foundation for my development skills.
-- ⚡ I have successfully completed my learning in React.js & Next.js, expanding my expertise in modern web development.
-- 📫 How to reach me: hamza.rafya.dev@gmail.com.
+- ⚡ I have successfully completed my learning in React.js & Next.js, expanding my expertise in modern web development. -->
   
 <h1>Languages and Tools: </h1><br>
 
