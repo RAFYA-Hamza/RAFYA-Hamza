@@ -10,13 +10,13 @@
 <!--  
  I'm passionate about coding, To further my skills, I've recently started a new challenge to become a Front-End Developer.
  -->
-<!--  I'm a dedicated and aspiring Full-Stack Developer (React.js & Node.js) with a passion for creating seamless user experiences and visually engaging digital products. I take pride in writing clean, efficient, and maintainable code while ensuring designs are both functional and aesthetically pleasing. 💬-->
+<!--  I'm a dedicated and aspiring Full-Stack Developer (React.js & Node.js) with a passion for creating seamless user experiences and visually engaging digital products. I take pride in writing clean, efficient, and maintainable code while ensuring designs are both functional and aesthetically pleasing. 💬
  I'm a Front-End Developer (React.js & Next.js) with a background in Embedded Systems Engineering, passionate about crafting fast, accessible, and visually engaging web applications. My experience spans e-commerce platforms, digital agency websites, and intuitive UI/UX—fueled by a relentless curiosity for new technologies.
 </p>
 
 <p>Currently, I work as an Embedded Systems Engineer, where I have gained diverse experience in software and hardware development through various professional and academic projects. These experiences have honed my problem-solving skills and technical expertise.</p>
 
-<p>A year ago, I embarked on a self-driven journey to transition into Full-Stack development, fueled by my enthusiasm for coding and building impactful digital solutions. Today, I am advancing my knowledge in modern web technologies like React.js, Next.js, and Tailwind CSS as I work towards crafting innovative and user-friendly web applications.</p>
+<p>A year ago, I embarked on a self-driven journey to transition into Full-Stack development, fueled by my enthusiasm for coding and building impactful digital solutions. Today, I am advancing my knowledge in modern web technologies like React.js, Next.js, and Tailwind CSS as I work towards crafting innovative and user-friendly web applications.</p>-->
 
 <p>Frontend & Product Engineer specializing in React.js, Next.js, TypeScript, and modern web architecture, with a strong foundation in Embedded Systems Engineering.</p>
 
