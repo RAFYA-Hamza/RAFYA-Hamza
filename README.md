@@ -33,7 +33,7 @@
 - ⚡ Scalable frontend architecture
 - ⚡ Clean, reusable, maintainable code
 - ⚡ Building products at the intersection of engineering and business
-- 📫 How to reach me: hamza.rafya.dev@gmail.com.
+- 📫 How to reach me: hrafya12@gmail.com.
 
 
 ### Current Direction
