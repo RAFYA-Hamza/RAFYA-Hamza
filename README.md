@@ -19,10 +19,10 @@ My background is in software development with React, TypeScript, and Node.js. Re
 
 ### 🛠️ Tech Stack
 
-**Mobile:** React Native · Flutter · Dart
-**Frontend:** React.js · Next.js · JavaScript · TypeScript · Tailwind CSS · CSS Modules
-**Backend:** Node.js · Express.js · REST APIs
-**Database:** MySQL · SQL · Prisma · Firebase
+- **Mobile:** React Native · Flutter · Dart
+- **Frontend:** React.js · Next.js · JavaScript · TypeScript · Tailwind CSS · CSS Modules
+- **Backend:** Node.js · Express.js · REST APIs
+- **Database:** MySQL · SQL · Prisma · Firebase
 
 ---
 
