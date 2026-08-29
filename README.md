@@ -1,12 +1,51 @@
  <div align="center">
   <h1>Hello there
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />,
-    I'm RAFYA Hamza
+    I'm Hamza
   </h1>
  </div>
 <p>
 
-<!--  I'm currently working as an Embedded Systems Engineer and I have a strong passion for coding. I really enjoy learning new languages and frameworks. I love to learn and contribute in any and every possible way.  -->
+**React Native & Full-Stack Developer** — I help founders and businesses turn app ideas into real, working products: mobile UI, backend APIs, and the databases that connect them.
+
+My background is in software development with React, TypeScript, and Node.js. React Native is where I focus most of my energy, but I approach it as part of a bigger system — not just the screens a designer hands off.
+
+---
+
+### 🚀 What I build
+
+- 📱 **React Native mobile apps** — cross-platform, iOS & Android
+- 🔗 **REST APIs** with Node.js & Express
+- 🗄️ **Databases** — MySQL, Prisma, Firebase
+- 🔐 **Authentication** & secure user flows
+- 🌐 **Web frontends** with React.js & Next.js
+- 🔧 Fixing bugs, improving performance, and extending existing apps
+
+---
+
+### 🛠️ Tech Stack
+
+**Mobile:** React Native · Flutter · Dart
+**Frontend:** React.js · Next.js · JavaScript · TypeScript · Tailwind CSS · CSS Modules
+**Backend:** Node.js · Express.js · REST APIs
+**Database:** MySQL · SQL · Prisma · Firebase
+
+---
+
+### 📌 A few things I care about
+
+- Writing code that's easy for someone else to pick up six months later
+- Understanding the "why" behind a feature before building it
+- Owning a project from mobile UI down to the data layer, so there are fewer handoffs and fewer things lost in translation
+
+---
+
+### 📫 Let's connect
+
+Working on a mobile app idea, or need help extending an existing one?
+Reach out — [your email] · [your Upwork profile link] · [your LinkedIn]
+
+<!--  I'm currently working as an Embedded Systems Engineer and I have a strong passion for coding. I really enjoy learning new languages and frameworks. I love to learn and contribute in any and every possible way.  
 <!--  
  I'm passionate about coding, To further my skills, I've recently started a new challenge to become a Front-End Developer.
  -->
@@ -63,4 +102,4 @@ Designing and building validation-first SaaS products, exploring real market pro
   <a href="https://www.instagram.com/ha_mza.rf" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" target="_blank" alt="Instagram"></a>
   <a href="https://www.facebook.com/Hamza.Rafa.05" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" target="_blank" alt="Facebook"></a>
 </div>
-
+-->
